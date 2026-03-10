@@ -1,0 +1,8 @@
+{
+  "environmentVariables": {
+    "APP_TOKEN_TEST": [
+      "staging",
+      "pre-prod"
+    ]
+  }
+}

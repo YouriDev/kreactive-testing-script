@@ -8,6 +8,7 @@ import datetime
 from utils import get_currency_symbol
 from utils import get_country_info
 from conftest import email_guest
+from base import abse_test
 
 local_name = os.environ["TEST_LOCAL"]
 
